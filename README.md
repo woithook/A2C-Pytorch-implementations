@@ -13,4 +13,4 @@ Basic knowledge on A2C algorithm:
 
 * `alg/` - Implementation of A2C and PG.  
 * `model/` - Neural networks using for RL.  
-* `utils.py` - Command utility methods to handle envs, optimizers and so on.  
+* `utils.py` - Command utility methods to process envs, hand-craft optimizers and so on.  
